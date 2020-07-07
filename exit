@@ -1,0 +1,59 @@
+[33mcommit b3760602aab8d2e57bfd155f9c930d7ccdd7551d[m[33m ([m[1;36mHEAD -> [m[1;32mpry-rails[m[33m, [m[1;31morigin/pry-rails[m[33m)[m
+Author: uedai <uehome2015@gmail.com>
+Date:   Sun Jul 5 19:02:54 2020 +0900
+
+    replace pry with pry-rails
+
+[33mcommit b7db23aba941e963ecde2cbe6dd6e989b27d9921[m
+Author: uedai <uehome2015@gmail.com>
+Date:   Sat Jul 4 13:47:00 2020 +0900
+
+    replace pry with pry-rails
+
+[33mcommit 763ae22955391f43e6449fdad8ef88f577f7adc4[m[33m ([m[1;31morigin/install-pry[m[33m, [m[1;32minstall-pry[m[33m)[m
+Author: uedai <uehome2015@gmail.com>
+Date:   Sat Jul 4 13:16:32 2020 +0900
+
+    install pry
+
+[33mcommit b20b14dd73cab0a65b669597952aece27521521f[m[33m ([m[1;31morigin/text-field[m[33m, [m[1;32mtext-field[m[33m)[m
+Author: uedai <uehome2015@gmail.com>
+Date:   Sat Jul 4 11:38:49 2020 +0900
+
+    implement text field
+
+[33mcommit 33553690c8369542ffbad6122427460aceeea52a[m[33m ([m[1;31morigin/strong-parameters[m[33m, [m[1;32mstrong-parameters[m[33m)[m
+Author: uedai <uehome2015@gmail.com>
+Date:   Sat Jul 4 11:07:48 2020 +0900
+
+    add content in permitted params
+
+[33mcommit 7d53f0837d9ad54b4f41c4ef86fa7c4f8755d2f2[m[33m ([m[1;31morigin/has-rich-text[m[33m, [m[1;32mhas-rich-text[m[33m)[m
+Author: uedai <uehome2015@gmail.com>
+Date:   Sat Jul 4 10:54:36 2020 +0900
+
+    make post model associated with other models
+
+[33mcommit a3c3e2e9c25b7448f8563787b7e86b6d0617240c[m[33m ([m[1;31morigin/scaffold-post[m[33m, [m[1;32mscaffold-post[m[33m)[m
+Author: uedai <uehome2015@gmail.com>
+Date:   Sat Jul 4 09:20:06 2020 +0900
+
+    scaffold-post
+
+[33mcommit 7878b1d6be1736d452d75c736fa7616bf6bd89a1[m[33m ([m[1;31morigin/install-image-processing[m[33m, [m[1;32minstall-image-processing[m[33m)[m
+Author: uedai <uehome2015@gmail.com>
+Date:   Sat Jul 4 02:37:40 2020 +0900
+
+    install image_processing gem
+
+[33mcommit 82972c98b862503ab064453a4ff167187f89d2f2[m[33m ([m[1;31morigin/action-text-install[m[33m, [m[1;32maction-text-install[m[33m)[m
+Author: uedai <uehome2015@gmail.com>
+Date:   Sat Jul 4 02:29:58 2020 +0900
+
+    create tables for actiontext
+
+[33mcommit 1ddb76689ad7002c6bb34db6cf13e621b088e662[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mpry-buybug[m[33m, [m[1;32mmaster[m[33m)[m
+Author: uedai <uehome2015@gmail.com>
+Date:   Thu Jul 2 18:55:09 2020 +0900
+
+    init
